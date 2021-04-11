@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#entry_tomb"
+                 "value":"main.json#entry_hole"
                 }],
          "type":"tilelayer",
          "visible":true,
