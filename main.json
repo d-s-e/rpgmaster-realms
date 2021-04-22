@@ -180,7 +180,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"rpgmaster_main_campfire"
+                 "value":"rpgmaster-main-campfire"
                 }, 
                 {
                  "name":"jitsiUrl",

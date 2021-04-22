@@ -108,7 +108,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"rpgmaster_tomb"
+                 "value":"rpgmaster-tomb"
                 }, 
                 {
                  "name":"jitsiUrl",
