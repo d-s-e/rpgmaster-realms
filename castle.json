@@ -195,16 +195,6 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"castle.json"
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
